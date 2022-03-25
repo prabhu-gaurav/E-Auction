@@ -1,0 +1,94 @@
+
+.userdet
+{
+	float:left;
+	width:50%;
+	color: steel blue;
+	border: solid green;
+    background-color: #111;
+	color:white;
+}
+.proddet
+{
+	margin-left: 55%;
+	width:25%;
+	color: steel blue;
+	border: solid green;
+    background-color: #111;
+	color:white;
+}
+input[type=text],input[type=number],input[type=email]
+{
+  width: 95%;
+  height: 25px;
+  margin: 10px;  
+  box-sizing: border-box;
+  border: none;
+  color: black;
+}
+p
+{
+	text-align:center;
+	color: white;
+}
+
+H1
+{
+	text-align:center;
+	color:#5534eb;
+}
+H3
+{
+	text-align:center;
+	color:black;
+}
+select
+{
+	width: 200px;
+	box-sizing: border-box;
+	background-color: #3CBC8D;
+
+}
+input[type=radio]
+{
+	cursor: pointer;
+
+}
+input[type=password]
+{
+	width: 95%;
+	height: 25px;
+	margin: 10px;  
+	box-sizing: border-box;
+	border: none;
+	color: black;
+}
+ul
+{
+	list-style: none;
+}
+textarea
+{
+	width: 100%;
+	height:20%;
+}
+
+button[type=submit]
+{
+    width: 95%;
+    height: 50px;
+    margin: 5px;  
+	background-color: #3CBC8D;
+
+}
+footer
+{
+	text-align:center;
+	color:steel blue;
+	border:green;
+	border-box:green;
+}
+background-image{
+
+	width:50%;
+}
